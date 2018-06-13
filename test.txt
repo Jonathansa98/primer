@@ -3,3 +3,8 @@ public class petanca{
 	
 	}
 }
+public class Tirada{
+	public Tirada(){
+
+	}
+}
